@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <a href="Amna_MAhmood_final_Thesis.pdf"><b>Read the Full Thesis</b></a>
+  <a href="https://raw.githubusercontent.com/Amna-pro/Integration-of-LLM-with-Conventional-Systems-for-Autonomous-Vehicles/main/Amna_MAhmood_final_Thesis.pdf"><b>Read the Full Thesis</b></a>
 </p>
 
 ---
@@ -162,3 +162,4 @@ The editable thesis is maintained in LaTeX. Original figures remain inside their
 ---
 
 <p align="center"><sub>Research repository prepared for clear review, reproducibility, and portfolio presentation.</sub></p>
+
