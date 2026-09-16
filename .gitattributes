@@ -1,0 +1,9 @@
+*.pdf binary
+*.png binary
+*.PNG binary
+*.jpg binary
+*.jpeg binary
+*.bib text eol=lf
+*.tex text eol=lf
+*.md text eol=lf
+*.py text eol=lf
