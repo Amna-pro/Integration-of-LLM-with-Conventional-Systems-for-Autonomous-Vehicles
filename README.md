@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <a href="Amna_MAhmood_final_Thesis_Web.pdf"><b>Read the Full Thesis</b></a>
+  <a href="https://amna-pro.github.io/Integration-of-LLM-with-Conventional-Systems-for-Autonomous-Vehicles/thesis.html"><b>Read the Full Thesis</b></a>
 </p>
 
 ---
